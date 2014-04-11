@@ -1,1 +1,2 @@
 # this is test commit
+https://github.com/FabLab61/social_bom.git
