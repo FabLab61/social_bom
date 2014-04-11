@@ -1,0 +1,24 @@
+[Sat Apr 12 00:20:52 2014] [info] Server listening (http://*:3000)
+[Sat Apr 12 00:20:56 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:20:56 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:20:56 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sat Apr 12 00:20:56 2014] [debug] Template "not_found.html.ep" not found.
+[Sat Apr 12 00:20:56 2014] [debug] Rendering inline template.
+[Sat Apr 12 00:20:56 2014] [debug] 404 Not Found (0.016733s, 59.762/s).
+[Sat Apr 12 00:21:29 2014] [debug] GET /welcome (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:21:29 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:21:29 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:21:29 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:21:29 2014] [debug] 200 OK (0.009711s, 102.976/s).
+[Sat Apr 12 00:21:42 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:21:42 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:21:42 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:21:42 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:21:42 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:21:42 2014] [debug] 200 OK (0.015675s, 63.796/s).
+[Sat Apr 12 00:25:13 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:25:13 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:25:13 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:25:13 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:25:13 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:25:13 2014] [debug] 200 OK (0.011345s, 88.145/s).
