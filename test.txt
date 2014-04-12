@@ -1,3 +1,0 @@
-# this is test commit
-# test antin
-https://github.com/FabLab61/social_bom.git
