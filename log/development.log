@@ -1,0 +1,388 @@
+[Sat Apr 12 00:20:52 2014] [info] Server listening (http://*:3000)
+[Sat Apr 12 00:20:56 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:20:56 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:20:56 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sat Apr 12 00:20:56 2014] [debug] Template "not_found.html.ep" not found.
+[Sat Apr 12 00:20:56 2014] [debug] Rendering inline template.
+[Sat Apr 12 00:20:56 2014] [debug] 404 Not Found (0.016733s, 59.762/s).
+[Sat Apr 12 00:21:29 2014] [debug] GET /welcome (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:21:29 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:21:29 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:21:29 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:21:29 2014] [debug] 200 OK (0.009711s, 102.976/s).
+[Sat Apr 12 00:21:42 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:21:42 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:21:42 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:21:42 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:21:42 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:21:42 2014] [debug] 200 OK (0.015675s, 63.796/s).
+[Sat Apr 12 00:25:13 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:25:13 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:25:13 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:25:13 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:25:13 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:25:13 2014] [debug] 200 OK (0.011345s, 88.145/s).
+[Sat Apr 12 00:30:26 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:30:26 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:30:26 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:30:26 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:30:26 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:30:26 2014] [debug] 200 OK (0.009801s, 102.030/s).
+[Sat Apr 12 00:31:29 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:31:29 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:31:29 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:31:29 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:31:29 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:31:29 2014] [debug] 200 OK (0.010499s, 95.247/s).
+[Sat Apr 12 00:33:20 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:33:20 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:33:20 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:33:20 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:33:20 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:33:20 2014] [debug] 200 OK (0.010241s, 97.647/s).
+[Sat Apr 12 00:35:59 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:35:59 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:35:59 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:35:59 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:35:59 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:35:59 2014] [debug] 200 OK (0.013375s, 74.766/s).
+[Sat Apr 12 00:37:06 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:37:06 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:37:06 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:37:06 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:37:06 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:37:06 2014] [debug] 200 OK (0.011274s, 88.700/s).
+[Sat Apr 12 00:38:45 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:38:45 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:38:45 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:38:45 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:38:45 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:38:45 2014] [debug] 200 OK (0.009897s, 101.041/s).
+[Sat Apr 12 00:39:13 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:39:13 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:39:13 2014] [debug] 200 OK (0.001722s, 580.720/s).
+[Sat Apr 12 00:39:24 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:39:24 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:39:24 2014] [debug] 200 OK (0.001995s, 501.253/s).
+[Sat Apr 12 00:40:56 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:40:56 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:40:56 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:40:56 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:40:56 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:40:56 2014] [debug] 200 OK (0.017208s, 58.113/s).
+[Sat Apr 12 00:41:16 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:41:16 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:41:16 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:41:16 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:41:16 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:41:16 2014] [debug] 200 OK (0.014769s, 67.709/s).
+[Sat Apr 12 00:41:58 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:41:58 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:41:58 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:41:58 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:41:58 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:41:58 2014] [debug] 200 OK (0.014872s, 67.240/s).
+[Sat Apr 12 00:42:57 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:42:57 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:42:57 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:42:57 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:42:57 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:42:57 2014] [debug] 200 OK (0.012270s, 81.500/s).
+[Sat Apr 12 00:44:16 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:44:16 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:44:16 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:44:16 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:44:16 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:44:16 2014] [debug] 200 OK (0.021039s, 47.531/s).
+[Sat Apr 12 00:46:23 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:46:23 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:46:23 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:46:23 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:46:23 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:46:23 2014] [debug] 200 OK (0.021302s, 46.944/s).
+[Sat Apr 12 00:47:15 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:47:15 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:47:15 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:47:15 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:47:15 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:47:15 2014] [debug] 200 OK (0.024374s, 41.027/s).
+[Sat Apr 12 00:48:12 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:48:12 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:48:12 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:48:12 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:48:12 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:48:12 2014] [debug] 200 OK (0.022443s, 44.557/s).
+[Sat Apr 12 00:49:59 2014] [info] Server listening (http://*:3000)
+[Sat Apr 12 00:50:03 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:50:03 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:50:03 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:50:03 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:50:03 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:50:03 2014] [debug] 200 OK (0.024544s, 40.743/s).
+[Sat Apr 12 00:51:01 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:51:01 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:51:01 2014] [debug] 200 OK (0.001631s, 613.121/s).
+[Sat Apr 12 00:53:17 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:53:17 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:53:17 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:53:17 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:53:17 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:53:17 2014] [debug] 200 OK (0.019976s, 50.060/s).
+[Sat Apr 12 00:54:22 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:54:22 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:54:22 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:54:22 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:54:22 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:54:22 2014] [debug] 200 OK (0.023323s, 42.876/s).
+[Sat Apr 12 00:54:33 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:54:33 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:54:33 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:54:33 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:54:33 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:54:33 2014] [debug] 200 OK (0.021846s, 45.775/s).
+[Sat Apr 12 00:56:44 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:56:44 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:56:44 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:56:44 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:56:44 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:56:44 2014] [debug] 200 OK (0.029701s, 33.669/s).
+[Sat Apr 12 00:57:27 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 00:57:27 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:57:27 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:57:27 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 00:57:27 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 00:57:27 2014] [debug] 200 OK (0.021188s, 47.197/s).
+[Sat Apr 12 00:59:06 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 00:59:06 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 00:59:06 2014] [debug] 200 OK (0.002520s, 396.825/s).
+[Sat Apr 12 01:02:30 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 01:02:30 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:02:30 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:02:30 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 01:02:30 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 01:02:30 2014] [debug] 200 OK (0.020030s, 49.925/s).
+[Sat Apr 12 01:02:57 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 01:02:57 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:02:57 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:02:57 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 01:02:57 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 01:02:57 2014] [debug] 200 OK (0.022514s, 44.417/s).
+[Sat Apr 12 01:03:32 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 01:03:32 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:03:32 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:03:32 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 01:03:32 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 01:03:32 2014] [debug] 200 OK (0.024923s, 40.124/s).
+[Sat Apr 12 01:04:57 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 01:04:57 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:04:57 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:04:57 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 01:04:57 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 01:04:57 2014] [debug] 200 OK (0.024037s, 41.603/s).
+[Sat Apr 12 01:24:13 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 01:24:13 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:24:13 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:24:13 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 01:24:13 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 01:24:13 2014] [debug] 200 OK (0.023630s, 42.319/s).
+[Sat Apr 12 01:25:01 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 01:25:01 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:25:01 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:25:01 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 01:25:01 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 01:25:01 2014] [debug] 200 OK (0.022290s, 44.863/s).
+[Sat Apr 12 01:25:11 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 01:25:11 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:25:11 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:25:11 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 01:25:11 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 01:25:11 2014] [debug] 200 OK (0.024606s, 40.640/s).
+[Sat Apr 12 01:29:38 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 01:29:38 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:29:38 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:29:38 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 01:29:38 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 01:29:38 2014] [debug] 200 OK (0.022904s, 43.660/s).
+[Sat Apr 12 01:30:59 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:30:59 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:30:59 2014] [debug] 200 OK (0.001972s, 507.099/s).
+[Sat Apr 12 01:31:09 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:31:09 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:31:09 2014] [debug] 200 OK (0.004107s, 243.487/s).
+[Sat Apr 12 01:31:22 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sat Apr 12 01:31:22 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:31:22 2014] [debug] 200 OK (0.002193s, 455.996/s).
+[Sat Apr 12 01:33:09 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:33:09 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:33:09 2014] [debug] 200 OK (0.002169s, 461.042/s).
+[Sat Apr 12 01:33:13 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:33:13 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:33:13 2014] [debug] 200 OK (0.001961s, 509.944/s).
+[Sat Apr 12 01:33:33 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:33:33 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:33:33 2014] [debug] 200 OK (0.001835s, 544.959/s).
+[Sat Apr 12 01:34:33 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:34:33 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:34:33 2014] [debug] 200 OK (0.001590s, 628.931/s).
+[Sat Apr 12 01:34:38 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:34:38 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:34:38 2014] [debug] 200 OK (0.001370s, 729.927/s).
+[Sat Apr 12 01:34:38 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:34:38 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:34:38 2014] [debug] 200 OK (0.002937s, 340.483/s).
+[Sat Apr 12 01:34:38 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:34:38 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:34:38 2014] [debug] 200 OK (0.001191s, 839.631/s).
+[Sat Apr 12 01:34:39 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:34:39 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:34:39 2014] [debug] 200 OK (0.005066s, 197.394/s).
+[Sat Apr 12 01:34:39 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:34:39 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:34:39 2014] [debug] 200 OK (0.003882s, 257.599/s).
+[Sat Apr 12 01:34:40 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:34:40 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:34:40 2014] [debug] 200 OK (0.001849s, 540.833/s).
+[Sat Apr 12 01:34:40 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:34:40 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:34:40 2014] [debug] 200 OK (0.002242s, 446.030/s).
+[Sat Apr 12 01:34:40 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:34:40 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:34:40 2014] [debug] 200 OK (0.001331s, 751.315/s).
+[Sat Apr 12 01:34:40 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:34:40 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:34:40 2014] [debug] 200 OK (0.001983s, 504.286/s).
+[Sat Apr 12 01:34:40 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:34:40 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:34:40 2014] [debug] 200 OK (0.002150s, 465.116/s).
+[Sat Apr 12 01:34:41 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:34:41 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:34:41 2014] [debug] 200 OK (0.002493s, 401.123/s).
+[Sat Apr 12 01:35:37 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:37 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:37 2014] [debug] 200 OK (0.002565s, 389.864/s).
+[Sat Apr 12 01:35:38 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:38 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:38 2014] [debug] 200 OK (0.001688s, 592.417/s).
+[Sat Apr 12 01:35:38 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:38 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:38 2014] [debug] 200 OK (0.001196s, 836.120/s).
+[Sat Apr 12 01:35:39 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:39 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:39 2014] [debug] 200 OK (0.001442s, 693.481/s).
+[Sat Apr 12 01:35:39 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:39 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:39 2014] [debug] 200 OK (0.004173s, 239.636/s).
+[Sat Apr 12 01:35:39 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:39 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:39 2014] [debug] 200 OK (0.001961s, 509.944/s).
+[Sat Apr 12 01:35:39 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:39 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:39 2014] [debug] 200 OK (0.004711s, 212.269/s).
+[Sat Apr 12 01:35:51 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:51 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:51 2014] [debug] 200 OK (0.003640s, 274.725/s).
+[Sat Apr 12 01:35:51 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:51 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:51 2014] [debug] 200 OK (0.001836s, 544.662/s).
+[Sat Apr 12 01:35:52 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:52 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:52 2014] [debug] 200 OK (0.002569s, 389.257/s).
+[Sat Apr 12 01:35:53 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:53 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:53 2014] [debug] 200 OK (0.001674s, 597.372/s).
+[Sat Apr 12 01:35:53 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:53 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:53 2014] [debug] 200 OK (0.003198s, 312.695/s).
+[Sat Apr 12 01:35:54 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:54 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:54 2014] [debug] 200 OK (0.004911s, 203.625/s).
+[Sat Apr 12 01:35:54 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:54 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:54 2014] [debug] 200 OK (0.001859s, 537.924/s).
+[Sat Apr 12 01:35:54 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:54 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:54 2014] [debug] 200 OK (0.004323s, 231.321/s).
+[Sat Apr 12 01:35:55 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:55 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:55 2014] [debug] 200 OK (0.002011s, 497.265/s).
+[Sat Apr 12 01:35:55 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:55 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:55 2014] [debug] 200 OK (0.003232s, 309.406/s).
+[Sat Apr 12 01:35:55 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:55 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:55 2014] [debug] 200 OK (0.001702s, 587.544/s).
+[Sat Apr 12 01:35:55 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:55 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:55 2014] [debug] 200 OK (0.001859s, 537.924/s).
+[Sat Apr 12 01:35:56 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:56 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:56 2014] [debug] 200 OK (0.001260s, 793.651/s).
+[Sat Apr 12 01:35:56 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:56 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:56 2014] [debug] 200 OK (0.001360s, 735.294/s).
+[Sat Apr 12 01:35:56 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:56 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:56 2014] [debug] 200 OK (0.001538s, 650.195/s).
+[Sat Apr 12 01:35:57 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:57 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:57 2014] [debug] 200 OK (0.002677s, 373.552/s).
+[Sat Apr 12 01:35:57 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:57 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:57 2014] [debug] 200 OK (0.004920s, 203.252/s).
+[Sat Apr 12 01:35:57 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:35:57 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:35:57 2014] [debug] 200 OK (0.002204s, 453.721/s).
+[Sat Apr 12 01:36:42 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 01:36:42 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:36:42 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:36:42 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 01:36:42 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 01:36:42 2014] [debug] 200 OK (0.029417s, 33.994/s).
+[Sat Apr 12 01:53:31 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:53:31 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:53:31 2014] [debug] 200 OK (0.001271s, 786.782/s).
+[Sat Apr 12 01:53:55 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:53:55 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:53:55 2014] [debug] 200 OK (0.001795s, 557.103/s).
+[Sat Apr 12 01:54:13 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:54:13 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:54:13 2014] [debug] 200 OK (0.001285s, 778.210/s).
+[Sat Apr 12 01:54:23 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:54:23 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:54:23 2014] [debug] 200 OK (0.002280s, 438.596/s).
+[Sat Apr 12 01:55:41 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 01:55:41 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:55:41 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:55:41 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 01:55:41 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 01:55:41 2014] [debug] 200 OK (0.022724s, 44.006/s).
+[Sat Apr 12 01:55:50 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:55:50 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:55:50 2014] [debug] 200 OK (0.002085s, 479.616/s).
+[Sat Apr 12 01:56:18 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 01:56:18 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:56:18 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:56:18 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 01:56:18 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 01:56:18 2014] [debug] 200 OK (0.023145s, 43.206/s).
+[Sat Apr 12 01:56:44 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 01:56:44 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 01:56:44 2014] [debug] 200 OK (0.002110s, 473.934/s).
+[Sat Apr 12 08:44:57 2014] [info] Server listening (http://*:3000)
+[Sat Apr 12 08:45:00 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 12 08:45:00 2014] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36).
+[Sat Apr 12 08:45:00 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 08:45:00 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 12 08:45:00 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 12 08:45:00 2014] [debug] 200 OK (0.025834s, 38.709/s).
+[Sat Apr 12 08:45:29 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sat Apr 12 08:45:29 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 08:45:29 2014] [debug] 200 OK (0.001847s, 541.419/s).
+[Sat Apr 12 08:45:44 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sat Apr 12 08:45:44 2014] [debug] Dispatching "SocialBom::Example->welcome".
+[Sat Apr 12 08:45:44 2014] [debug] 200 OK (0.001823s, 548.546/s).
+[Sat Apr 12 08:56:18 2014] [info] Server listening (http://*:3000)
+[Sat Apr 12 08:56:43 2014] [info] Server listening (http://*:3000)
+[Sat Apr 12 09:06:19 2014] [info] Server listening (http://*:3000)
+[Sat Apr 12 09:25:34 2014] [info] Server listening (http://*:3000)
+[Sat Apr 12 09:40:33 2014] [info] Server listening (http://*:3000)

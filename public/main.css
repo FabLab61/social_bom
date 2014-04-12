@@ -1,0 +1,20 @@
+body {
+	background-color: gray;
+}
+
+.container {
+	background-color: white;
+}
+
+.half-width {
+	width: 45%;
+	float: left;
+}
+.colon-width {
+	width: 9%;
+	float: left;
+}
+
+.half-width input {
+	width: 100%;
+}
