@@ -1,5 +1,7 @@
 package SocialBom;
 use Mojo::Base 'Mojolicious';
+use Mojolicious::Commands;
+
 
 # This method will run once at server start
 sub startup {

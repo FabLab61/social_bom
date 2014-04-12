@@ -1,5 +1,7 @@
 #!/usr/bin/env perl
 use Mojo::Base -strict;
+use warnings;
+require Mojolicious::Commands;
 
 use File::Basename 'dirname';
 use File::Spec;
@@ -18,4 +20,4 @@ EOF
 $ENV{MOJO_APP} ||= 'SocialBom';
 
 # Start commands
-Mojolicious::Commands->start;
+Mojolicious::Commands->start_app('SocialBom');
