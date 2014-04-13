@@ -1,3 +1,10 @@
+
 *~
+*.tmp
+*TMP
 *.~lock.cheat sheet.odt#
 social_bom/log/development.log
+.bash_history
+.cache/*
+.mysql_history
+log/development.log

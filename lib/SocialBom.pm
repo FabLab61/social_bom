@@ -12,9 +12,12 @@ sub startup {
 
   # Routes
   my $r = $self->routes;
-
   # Normal route to controller
-  $r->route('/')->to('example#welcome');
+  $r->route('/')->to('example#index');
+
+  $r->route('/new')->to('example#new_bom');
+  $r->route('/add')->to('example#add_item');
+  $r->route('/testdb')->to('example#test_db');
 }
 
 1;
