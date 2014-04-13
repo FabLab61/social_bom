@@ -42,34 +42,34 @@
 			<table class="table table-condensed items_table">
 			  <thead>
 			  	<tr>
-			  		<td width="80%" class="num-width">#</td>
-			  		<td>название</td>
-			  		<td>количество</td>
-			  		<td>независимая подсистема</td>
-			  		<td style="display:none" class="extended">ключевые<br>характеристики</td>
-			  		<td style="display:none" class="extended">фото</td>
-			  		<td style="display:none" class="extended">заметка</td>
+			  		<td width="10%" class="num-width">#</td>
+			  		<td width="20%" >название</td>
+			  		<td width="10%" >количество</td>
+			  		<td width="20%" >независимая подсистема</td>
+			  		<td style="visibility:hidden" class="extended">ключевые<br>характеристики</td>
+			  		<td style="visibility:hidden" class="extended">фото</td>
+			  		<td style="visibility:hidden" class="extended">заметка</td>
 			  	</tr>
 			  </thead>
 			  <tr class="one_item">
 			  <form class="item_form">
-			  	<td><span class="item_number"></span></td>
-			  	<td><input type="text" name="item" class="field item_field"></td>
-			  	<td><input type="text" name="quantity" class="field" size="4" maxlength="4"></td>
-			  	<td><input type="text" name="subsystem"  class="field subsystem"></td>
-			  	<td style="display:none" class="extended characteristics">
+			  	<td width="10%" ><span class="item_number"></span></td>
+			  	<td width="20%" ><input type="text" name="item" class="field item_field"></td>
+			  	<td width="10%" ><input type="text" name="quantity" class="field" size="4" maxlength="4"></td>
+			  	<td width="20%" ><input type="text" name="subsystem"  class="field subsystem"></td>
+			  	<td style="visibility:hidden" class="extended characteristics">
 			  		<div class="characteristics-wrapper">
 				  		<div class="half-width"><input class="charactristic_name" type="text" ></div>
 				  		<div class="colon-width"> : </div> 
 				  		<div class="half-width"><input type="text"></div></td>
 				  	</div>
-			  	<td style="display:none" class="extended">
+			  	<td style="visibility:hidden" class="extended">
 			  		<div class="upload-file-container">
 			  			<span class="glyphicon glyphicon-plus"></span>
 	   					<input type="file" name="photo" multiple>
 					</div>
 				</td>
-			  	<td style="display:none" class="extended">
+			  	<td style="visibility:hidden" class="extended">
 			  		<input class="last_input" type="textarea" name="field note">
 			  	</td>
 			  	</form>

@@ -4621,3 +4621,1024 @@ syntax error at template example/test_db.html.ep line 11, near "} }"
 [Sun Apr 13 09:45:16 2014] [debug] Rendering cached template "example/new_bom.html.ep".
 [Sun Apr 13 09:45:16 2014] [debug] Rendering cached template "layouts/default.html.ep".
 [Sun Apr 13 09:45:16 2014] [debug] 200 OK (0.001530s, 653.595/s).
+[Sun Apr 13 09:53:58 2014] [debug] GET "/new".
+[Sun Apr 13 09:53:58 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 09:53:58 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 09:53:58 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 09:53:58 2014] [debug] 200 OK (0.001837s, 544.366/s).
+[Sun Apr 13 09:57:58 2014] [debug] GET "/".
+[Sun Apr 13 09:57:58 2014] [debug] Routing to controller "SocialBom::Example" and action "index".
+[Sun Apr 13 09:57:58 2014] [debug] Rendering cached template "example/index.html.ep".
+[Sun Apr 13 09:57:58 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 09:57:58 2014] [debug] 200 OK (0.001465s, 682.594/s).
+[Sun Apr 13 09:58:31 2014] [debug] GET "/new".
+[Sun Apr 13 09:58:31 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 09:58:31 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 09:58:31 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 09:58:31 2014] [debug] 200 OK (0.009487s, 105.407/s).
+[Sun Apr 13 10:03:02 2014] [debug] GET "/new".
+[Sun Apr 13 10:03:02 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:03:02 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:03:02 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:03:02 2014] [debug] 200 OK (0.001426s, 701.262/s).
+[Sun Apr 13 10:03:16 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:03:16 2014] [debug] GET "/new".
+[Sun Apr 13 10:03:16 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:03:16 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:03:16 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:03:16 2014] [debug] 200 OK (0.044297s, 22.575/s).
+[Sun Apr 13 10:04:11 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:04:11 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:11 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:11 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:11 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:04:11 2014] [debug] 200 OK (0.039879s, 25.076/s).
+[Sun Apr 13 10:04:12 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:12 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:12 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:12 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:04:12 2014] [debug] 200 OK (0.001845s, 542.005/s).
+[Sun Apr 13 10:04:13 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:13 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:13 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:13 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:04:13 2014] [debug] 200 OK (0.001397s, 715.820/s).
+[Sun Apr 13 10:04:17 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:17 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:17 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:17 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:04:17 2014] [debug] 200 OK (0.001431s, 698.812/s).
+[Sun Apr 13 10:04:18 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:18 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:18 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:18 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:04:18 2014] [debug] 200 OK (0.001761s, 567.859/s).
+[Sun Apr 13 10:04:30 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:30 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:30 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:30 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:04:30 2014] [debug] 200 OK (0.001588s, 629.723/s).
+[Sun Apr 13 10:04:32 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:04:32 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:32 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:32 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:32 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:04:32 2014] [debug] 200 OK (0.040650s, 24.600/s).
+[Sun Apr 13 10:04:33 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:33 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:33 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:33 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:04:33 2014] [debug] 200 OK (0.001389s, 719.942/s).
+[Sun Apr 13 10:04:33 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:33 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:33 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:33 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:04:33 2014] [debug] 200 OK (0.001348s, 741.840/s).
+[Sun Apr 13 10:04:34 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:34 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:34 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:34 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:04:34 2014] [debug] 200 OK (0.001607s, 622.278/s).
+[Sun Apr 13 10:04:34 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:34 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:34 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:34 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:04:34 2014] [debug] 200 OK (0.001517s, 659.196/s).
+[Sun Apr 13 10:04:34 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:34 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:34 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:34 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:04:34 2014] [debug] 200 OK (0.001319s, 758.150/s).
+[Sun Apr 13 10:04:34 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:34 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:34 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:34 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:04:34 2014] [debug] 200 OK (0.001347s, 742.390/s).
+[Sun Apr 13 10:04:34 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:34 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:34 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:34 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:04:34 2014] [debug] 200 OK (0.001314s, 761.035/s).
+[Sun Apr 13 10:04:35 2014] [debug] GET "/new".
+[Sun Apr 13 10:04:35 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:04:35 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:04:35 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:04:35 2014] [debug] 200 OK (0.001701s, 587.889/s).
+[Sun Apr 13 10:04:40 2014] [debug] GET "/".
+[Sun Apr 13 10:04:40 2014] [debug] Routing to controller "SocialBom::Example" and action "index".
+[Sun Apr 13 10:04:40 2014] [debug] Rendering template "example/index.html.ep".
+[Sun Apr 13 10:04:40 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:04:40 2014] [debug] 200 OK (0.005986s, 167.056/s).
+[Sun Apr 13 10:04:41 2014] [debug] GET "/testdb".
+[Sun Apr 13 10:04:41 2014] [debug] Routing to controller "SocialBom::Example" and action "test_db".
+[Sun Apr 13 10:04:41 2014] [debug] Rendering template "example/test_db.html.ep".
+[Sun Apr 13 10:04:41 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:04:41 2014] [debug] 200 OK (0.018418s, 54.295/s).
+[Sun Apr 13 10:06:06 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:06:06 2014] [debug] GET "/new".
+[Sun Apr 13 10:06:06 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:06:06 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:06:06 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:06:06 2014] [debug] 200 OK (0.052493s, 19.050/s).
+[Sun Apr 13 10:06:07 2014] [debug] GET "/new".
+[Sun Apr 13 10:06:07 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:06:07 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:06:07 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:06:07 2014] [debug] 200 OK (0.001982s, 504.541/s).
+[Sun Apr 13 10:06:27 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:06:27 2014] [debug] GET "/new".
+[Sun Apr 13 10:06:27 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:06:27 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:06:27 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:06:27 2014] [debug] 200 OK (0.040076s, 24.953/s).
+[Sun Apr 13 10:07:10 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:07:10 2014] [debug] GET "/new".
+[Sun Apr 13 10:07:10 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:07:10 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:07:10 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:07:10 2014] [debug] 200 OK (0.042376s, 23.598/s).
+[Sun Apr 13 10:07:11 2014] [debug] GET "/new".
+[Sun Apr 13 10:07:11 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:07:11 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:07:11 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:07:11 2014] [debug] 200 OK (0.001314s, 761.035/s).
+[Sun Apr 13 10:07:12 2014] [debug] GET "/new".
+[Sun Apr 13 10:07:12 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:07:12 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:07:12 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:07:12 2014] [debug] 200 OK (0.001684s, 593.824/s).
+[Sun Apr 13 10:07:13 2014] [debug] GET "/new".
+[Sun Apr 13 10:07:13 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:07:13 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:07:13 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:07:13 2014] [debug] 200 OK (0.001765s, 566.572/s).
+[Sun Apr 13 10:07:13 2014] [debug] GET "/new".
+[Sun Apr 13 10:07:13 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:07:13 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:07:13 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:07:13 2014] [debug] 200 OK (0.001797s, 556.483/s).
+[Sun Apr 13 10:07:48 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:07:48 2014] [debug] GET "/new".
+[Sun Apr 13 10:07:48 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:07:48 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:07:48 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:07:48 2014] [debug] 200 OK (0.053501s, 18.691/s).
+[Sun Apr 13 10:08:05 2014] [debug] GET "/new".
+[Sun Apr 13 10:08:05 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:08:05 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:08:05 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:08:05 2014] [debug] 200 OK (0.001366s, 732.064/s).
+[Sun Apr 13 10:08:39 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:08:39 2014] [debug] GET "/new".
+[Sun Apr 13 10:08:39 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:08:39 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:08:39 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:08:39 2014] [debug] 200 OK (0.039039s, 25.615/s).
+[Sun Apr 13 10:08:40 2014] [debug] GET "/new".
+[Sun Apr 13 10:08:40 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:08:40 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:08:40 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:08:40 2014] [debug] 200 OK (0.002120s, 471.698/s).
+[Sun Apr 13 10:08:55 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:08:55 2014] [debug] GET "/new".
+[Sun Apr 13 10:08:55 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:08:55 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:08:55 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:08:55 2014] [debug] 200 OK (0.038542s, 25.946/s).
+[Sun Apr 13 10:08:56 2014] [debug] GET "/new".
+[Sun Apr 13 10:08:56 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:08:56 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:08:56 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:08:56 2014] [debug] 200 OK (0.002159s, 463.177/s).
+[Sun Apr 13 10:09:42 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:09:42 2014] [debug] GET "/new".
+[Sun Apr 13 10:09:42 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:09:42 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:09:42 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:09:42 2014] [debug] 200 OK (0.036755s, 27.207/s).
+[Sun Apr 13 10:09:43 2014] [debug] GET "/new".
+[Sun Apr 13 10:09:43 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:09:43 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:09:43 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:09:43 2014] [debug] 200 OK (0.001856s, 538.793/s).
+[Sun Apr 13 10:09:59 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:09:59 2014] [debug] GET "/new".
+[Sun Apr 13 10:09:59 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:09:59 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:09:59 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:09:59 2014] [debug] 200 OK (0.037348s, 26.775/s).
+[Sun Apr 13 10:10:00 2014] [debug] GET "/new".
+[Sun Apr 13 10:10:00 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:10:00 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:10:00 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:10:00 2014] [debug] 200 OK (0.001761s, 567.859/s).
+[Sun Apr 13 10:10:16 2014] [debug] GET "/new".
+[Sun Apr 13 10:10:16 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:10:16 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:10:16 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:10:16 2014] [debug] 200 OK (0.002463s, 406.009/s).
+[Sun Apr 13 10:10:53 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:10:53 2014] [debug] GET "/new".
+[Sun Apr 13 10:10:53 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:10:53 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:10:53 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:10:53 2014] [debug] 200 OK (0.053216s, 18.791/s).
+[Sun Apr 13 10:10:54 2014] [debug] GET "/new".
+[Sun Apr 13 10:10:54 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:10:54 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:10:54 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:10:54 2014] [debug] 200 OK (0.002189s, 456.830/s).
+[Sun Apr 13 10:10:55 2014] [debug] GET "/new".
+[Sun Apr 13 10:10:55 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:10:55 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:10:55 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:10:55 2014] [debug] 200 OK (0.001416s, 706.215/s).
+[Sun Apr 13 10:12:22 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:12:22 2014] [debug] GET "/new".
+[Sun Apr 13 10:12:22 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:12:22 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:12:22 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:12:22 2014] [debug] 200 OK (0.037254s, 26.843/s).
+[Sun Apr 13 10:12:23 2014] [debug] GET "/new".
+[Sun Apr 13 10:12:23 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:12:23 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:12:23 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:12:23 2014] [debug] 200 OK (0.009783s, 102.218/s).
+[Sun Apr 13 10:12:33 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:12:33 2014] [debug] GET "/new".
+[Sun Apr 13 10:12:33 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:12:33 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:12:33 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:12:33 2014] [debug] 200 OK (0.044356s, 22.545/s).
+[Sun Apr 13 10:12:35 2014] [debug] GET "/new".
+[Sun Apr 13 10:12:35 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:12:35 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:12:35 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:12:35 2014] [debug] 200 OK (0.001798s, 556.174/s).
+[Sun Apr 13 10:13:06 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:13:06 2014] [debug] GET "/new".
+[Sun Apr 13 10:13:06 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:13:06 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:13:06 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:13:06 2014] [debug] 200 OK (0.044630s, 22.406/s).
+[Sun Apr 13 10:13:08 2014] [debug] GET "/new".
+[Sun Apr 13 10:13:08 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:13:08 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:13:08 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:13:08 2014] [debug] 200 OK (0.002080s, 480.769/s).
+[Sun Apr 13 10:13:08 2014] [debug] GET "/new".
+[Sun Apr 13 10:13:08 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:13:08 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:13:08 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:13:08 2014] [debug] 200 OK (0.001521s, 657.462/s).
+[Sun Apr 13 10:16:47 2014] [debug] GET "/new".
+[Sun Apr 13 10:16:47 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:16:47 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:16:47 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:16:47 2014] [debug] 200 OK (0.001381s, 724.113/s).
+[Sun Apr 13 10:17:18 2014] [debug] GET "/new".
+[Sun Apr 13 10:17:18 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:17:18 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:17:18 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:17:18 2014] [debug] 200 OK (0.001249s, 800.641/s).
+[Sun Apr 13 10:17:26 2014] [debug] GET "/new".
+[Sun Apr 13 10:17:26 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:17:26 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:17:26 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:17:26 2014] [debug] 200 OK (0.001313s, 761.615/s).
+[Sun Apr 13 10:17:33 2014] [debug] GET "/new".
+[Sun Apr 13 10:17:33 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:17:33 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:17:33 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:17:33 2014] [debug] 200 OK (0.001398s, 715.308/s).
+[Sun Apr 13 10:19:36 2014] [debug] GET "/new".
+[Sun Apr 13 10:19:36 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:19:36 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:19:36 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:19:36 2014] [debug] 200 OK (0.002081s, 480.538/s).
+[Sun Apr 13 10:20:50 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:20:50 2014] [debug] GET "/new".
+[Sun Apr 13 10:20:50 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:20:50 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:20:50 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:20:50 2014] [debug] 200 OK (0.037320s, 26.795/s).
+[Sun Apr 13 10:21:23 2014] [debug] GET "/new".
+[Sun Apr 13 10:21:23 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:21:23 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:21:23 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:21:23 2014] [debug] 200 OK (0.001402s, 713.267/s).
+[Sun Apr 13 10:21:24 2014] [debug] GET "/new".
+[Sun Apr 13 10:21:24 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:21:24 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:21:24 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:21:24 2014] [debug] 200 OK (0.001771s, 564.653/s).
+[Sun Apr 13 10:21:38 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:21:38 2014] [debug] GET "/new".
+[Sun Apr 13 10:21:38 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:21:38 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:21:38 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:21:38 2014] [debug] 200 OK (0.038460s, 26.001/s).
+[Sun Apr 13 10:22:16 2014] [debug] GET "/new".
+[Sun Apr 13 10:22:16 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:22:16 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:22:16 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:22:16 2014] [debug] 200 OK (0.001860s, 537.634/s).
+[Sun Apr 13 10:23:53 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:23:53 2014] [debug] GET "/new".
+[Sun Apr 13 10:23:53 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:23:53 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:23:53 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:23:53 2014] [debug] 200 OK (0.041479s, 24.109/s).
+[Sun Apr 13 10:24:31 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:24:31 2014] [debug] GET "/new".
+[Sun Apr 13 10:24:31 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:24:31 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:24:31 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:24:31 2014] [debug] 200 OK (0.054524s, 18.341/s).
+[Sun Apr 13 10:25:25 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:25:25 2014] [debug] GET "/new".
+[Sun Apr 13 10:25:25 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:25:25 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:25:25 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:25:25 2014] [debug] 200 OK (0.044418s, 22.513/s).
+[Sun Apr 13 10:25:27 2014] [debug] GET "/new".
+[Sun Apr 13 10:25:27 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:25:27 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:25:27 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:25:27 2014] [debug] 200 OK (0.001262s, 792.393/s).
+[Sun Apr 13 10:25:35 2014] [debug] GET "/new".
+[Sun Apr 13 10:25:35 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:25:35 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:25:35 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:25:35 2014] [debug] 200 OK (0.001440s, 694.444/s).
+[Sun Apr 13 10:26:34 2014] [debug] GET "/new".
+[Sun Apr 13 10:26:34 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:26:34 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:26:34 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:26:34 2014] [debug] 200 OK (0.001252s, 798.722/s).
+[Sun Apr 13 10:26:43 2014] [debug] GET "/new".
+[Sun Apr 13 10:26:43 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:26:43 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:26:43 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:26:43 2014] [debug] 200 OK (0.001812s, 551.876/s).
+[Sun Apr 13 10:27:31 2014] [debug] GET "/testdb".
+[Sun Apr 13 10:27:31 2014] [debug] Routing to controller "SocialBom::Example" and action "test_db".
+[Sun Apr 13 10:27:31 2014] [debug] Rendering template "example/test_db.html.ep".
+[Sun Apr 13 10:27:31 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:27:31 2014] [debug] 200 OK (0.017684s, 56.548/s).
+[Sun Apr 13 10:27:34 2014] [debug] GET "/".
+[Sun Apr 13 10:27:34 2014] [debug] Routing to controller "SocialBom::Example" and action "index".
+[Sun Apr 13 10:27:34 2014] [debug] Rendering template "example/index.html.ep".
+[Sun Apr 13 10:27:34 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:27:34 2014] [debug] 200 OK (0.008099s, 123.472/s).
+[Sun Apr 13 10:27:37 2014] [debug] GET "/new".
+[Sun Apr 13 10:27:37 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:27:37 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:27:37 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:27:37 2014] [debug] 200 OK (0.001430s, 699.301/s).
+[Sun Apr 13 10:27:46 2014] [debug] GET "/new".
+[Sun Apr 13 10:27:46 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:27:46 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:27:46 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:27:46 2014] [debug] 200 OK (0.001357s, 736.920/s).
+[Sun Apr 13 10:27:59 2014] [debug] GET "/new".
+[Sun Apr 13 10:27:59 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:27:59 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:27:59 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:27:59 2014] [debug] 200 OK (0.001628s, 614.251/s).
+[Sun Apr 13 10:28:26 2014] [debug] GET "/new".
+[Sun Apr 13 10:28:26 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:28:26 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:28:26 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:28:26 2014] [debug] 200 OK (0.001327s, 753.580/s).
+[Sun Apr 13 10:28:29 2014] [debug] GET "/new".
+[Sun Apr 13 10:28:29 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:28:29 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:28:29 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:28:29 2014] [debug] 200 OK (0.043061s, 23.223/s).
+[Sun Apr 13 10:29:17 2014] [debug] GET "/new".
+[Sun Apr 13 10:29:17 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:29:17 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:29:17 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:29:17 2014] [debug] 200 OK (0.001349s, 741.290/s).
+[Sun Apr 13 10:31:09 2014] [debug] GET "/new".
+[Sun Apr 13 10:31:09 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:31:09 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:31:09 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:31:09 2014] [debug] 200 OK (0.001425s, 701.754/s).
+[Sun Apr 13 10:31:16 2014] [debug] GET "/new".
+[Sun Apr 13 10:31:16 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:31:16 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:31:16 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:31:16 2014] [debug] 200 OK (0.001341s, 745.712/s).
+[Sun Apr 13 10:34:13 2014] [debug] GET "/new".
+[Sun Apr 13 10:34:13 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:34:13 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:34:13 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:34:13 2014] [debug] 200 OK (0.008877s, 112.651/s).
+[Sun Apr 13 10:34:22 2014] [debug] GET "/new".
+[Sun Apr 13 10:34:22 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:34:22 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:34:22 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:34:22 2014] [debug] 200 OK (0.001219s, 820.345/s).
+[Sun Apr 13 10:34:35 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:34:35 2014] [debug] GET "/new".
+[Sun Apr 13 10:34:35 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:34:35 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:34:35 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:34:35 2014] [debug] 200 OK (0.042383s, 23.594/s).
+[Sun Apr 13 10:36:04 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:36:04 2014] [debug] GET "/new".
+[Sun Apr 13 10:36:04 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:36:04 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:36:04 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:36:04 2014] [debug] 200 OK (0.038094s, 26.251/s).
+[Sun Apr 13 10:36:06 2014] [debug] GET "/new".
+[Sun Apr 13 10:36:06 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:36:06 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:36:06 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:36:06 2014] [debug] 200 OK (0.002134s, 468.604/s).
+[Sun Apr 13 10:36:25 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:36:25 2014] [debug] GET "/new".
+[Sun Apr 13 10:36:25 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:36:25 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:36:25 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:36:25 2014] [debug] 200 OK (0.038124s, 26.230/s).
+[Sun Apr 13 10:36:26 2014] [debug] GET "/new".
+[Sun Apr 13 10:36:26 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:36:26 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:36:26 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:36:26 2014] [debug] 200 OK (0.001377s, 726.216/s).
+[Sun Apr 13 10:36:27 2014] [debug] GET "/new".
+[Sun Apr 13 10:36:27 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:36:27 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:36:27 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:36:27 2014] [debug] 200 OK (0.001686s, 593.120/s).
+[Sun Apr 13 10:36:27 2014] [debug] GET "/new".
+[Sun Apr 13 10:36:27 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:36:27 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:36:27 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:36:27 2014] [debug] 200 OK (0.001901s, 526.039/s).
+[Sun Apr 13 10:36:27 2014] [debug] GET "/new".
+[Sun Apr 13 10:36:27 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:36:27 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:36:27 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:36:27 2014] [debug] 200 OK (0.001951s, 512.558/s).
+[Sun Apr 13 10:36:28 2014] [debug] GET "/new".
+[Sun Apr 13 10:36:28 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:36:28 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:36:28 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:36:28 2014] [debug] 200 OK (0.016775s, 59.613/s).
+[Sun Apr 13 10:36:28 2014] [debug] GET "/new".
+[Sun Apr 13 10:36:28 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:36:28 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:36:28 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:36:28 2014] [debug] 200 OK (0.009644s, 103.691/s).
+[Sun Apr 13 10:37:01 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:37:01 2014] [debug] GET "/new".
+[Sun Apr 13 10:37:01 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:37:01 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:37:01 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:37:01 2014] [debug] 200 OK (0.044773s, 22.335/s).
+[Sun Apr 13 10:37:07 2014] [debug] GET "/new".
+[Sun Apr 13 10:37:07 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:37:07 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:37:07 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:37:07 2014] [debug] 200 OK (0.001502s, 665.779/s).
+[Sun Apr 13 10:38:06 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:38:06 2014] [debug] GET "/new".
+[Sun Apr 13 10:38:06 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:38:06 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:38:06 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:38:06 2014] [debug] 200 OK (0.042388s, 23.592/s).
+[Sun Apr 13 10:38:08 2014] [debug] GET "/new".
+[Sun Apr 13 10:38:08 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:38:08 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:38:08 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:38:08 2014] [debug] 200 OK (0.002304s, 434.028/s).
+[Sun Apr 13 10:38:23 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:38:23 2014] [debug] GET "/new".
+[Sun Apr 13 10:38:23 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:38:23 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:38:23 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:38:23 2014] [debug] 200 OK (0.038489s, 25.981/s).
+[Sun Apr 13 10:38:25 2014] [debug] GET "/new".
+[Sun Apr 13 10:38:25 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:38:25 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:38:25 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:38:25 2014] [debug] 200 OK (0.001236s, 809.061/s).
+[Sun Apr 13 10:38:42 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:38:42 2014] [debug] GET "/new".
+[Sun Apr 13 10:38:42 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:38:42 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:38:42 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:38:42 2014] [debug] 200 OK (0.037710s, 26.518/s).
+[Sun Apr 13 10:39:13 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:39:13 2014] [debug] GET "/new".
+[Sun Apr 13 10:39:13 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:39:13 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:39:13 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:39:13 2014] [debug] 200 OK (0.045056s, 22.195/s).
+[Sun Apr 13 10:39:17 2014] [debug] GET "/new".
+[Sun Apr 13 10:39:17 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:39:17 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:39:17 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:39:17 2014] [debug] 200 OK (0.001382s, 723.589/s).
+[Sun Apr 13 10:39:28 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:39:28 2014] [debug] GET "/new".
+[Sun Apr 13 10:39:28 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:39:28 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:39:28 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:39:28 2014] [debug] 200 OK (0.054687s, 18.286/s).
+[Sun Apr 13 10:39:36 2014] [debug] GET "/new".
+[Sun Apr 13 10:39:36 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:39:36 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:39:36 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:39:36 2014] [debug] 200 OK (0.001453s, 688.231/s).
+[Sun Apr 13 10:42:43 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:42:43 2014] [debug] GET "/new".
+[Sun Apr 13 10:42:43 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:42:43 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:42:43 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:42:43 2014] [debug] 200 OK (0.036789s, 27.182/s).
+[Sun Apr 13 10:42:47 2014] [debug] GET "/new".
+[Sun Apr 13 10:42:47 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:42:47 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:42:47 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:42:47 2014] [debug] 200 OK (0.001484s, 673.854/s).
+[Sun Apr 13 10:44:03 2014] [debug] GET "/new".
+[Sun Apr 13 10:44:03 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:44:03 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:44:03 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:44:03 2014] [debug] 200 OK (0.001819s, 549.753/s).
+[Sun Apr 13 10:44:03 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:44:04 2014] [debug] GET "/new".
+[Sun Apr 13 10:44:04 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:44:04 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:44:04 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:44:04 2014] [debug] 200 OK (0.023647s, 42.289/s).
+[Sun Apr 13 10:44:58 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:44:58 2014] [debug] GET "/new".
+[Sun Apr 13 10:44:58 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:44:58 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:44:58 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:44:58 2014] [debug] 200 OK (0.041655s, 24.007/s).
+[Sun Apr 13 10:48:13 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:48:13 2014] [debug] GET "/new".
+[Sun Apr 13 10:48:13 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:48:13 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:48:13 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:48:13 2014] [debug] 200 OK (0.036490s, 27.405/s).
+[Sun Apr 13 10:48:27 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:48:27 2014] [debug] GET "/new".
+[Sun Apr 13 10:48:27 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:48:27 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:48:27 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:48:27 2014] [debug] 200 OK (0.041557s, 24.063/s).
+[Sun Apr 13 10:48:40 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:48:40 2014] [debug] GET "/new".
+[Sun Apr 13 10:48:40 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:48:40 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:48:40 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:48:40 2014] [debug] 200 OK (0.045263s, 22.093/s).
+[Sun Apr 13 10:48:47 2014] [debug] GET "/new".
+[Sun Apr 13 10:48:47 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:48:47 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:48:47 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:48:47 2014] [debug] 200 OK (0.001587s, 630.120/s).
+[Sun Apr 13 10:48:48 2014] [debug] GET "/new".
+[Sun Apr 13 10:48:48 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:48:48 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:48:48 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:48:48 2014] [debug] 200 OK (0.001782s, 561.167/s).
+[Sun Apr 13 10:50:20 2014] [debug] GET "/new".
+[Sun Apr 13 10:50:20 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:50:20 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:50:20 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:50:20 2014] [debug] 200 OK (0.001317s, 759.301/s).
+[Sun Apr 13 10:50:41 2014] [debug] GET "/new".
+[Sun Apr 13 10:50:41 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:50:41 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:50:41 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:50:41 2014] [debug] 200 OK (0.001395s, 716.846/s).
+[Sun Apr 13 10:51:10 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:51:10 2014] [debug] GET "/new".
+[Sun Apr 13 10:51:10 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:51:10 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:51:10 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:51:10 2014] [debug] 200 OK (0.040452s, 24.721/s).
+[Sun Apr 13 10:53:13 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:53:13 2014] [debug] GET "/new".
+[Sun Apr 13 10:53:13 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:53:13 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:53:13 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:53:13 2014] [debug] 200 OK (0.044806s, 22.318/s).
+[Sun Apr 13 10:53:15 2014] [debug] GET "/new".
+[Sun Apr 13 10:53:15 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:53:15 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:53:15 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:53:15 2014] [debug] 200 OK (0.001717s, 582.411/s).
+[Sun Apr 13 10:53:15 2014] [debug] GET "/new".
+[Sun Apr 13 10:53:15 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:53:15 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:53:15 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:53:15 2014] [debug] 200 OK (0.002044s, 489.237/s).
+[Sun Apr 13 10:53:16 2014] [debug] GET "/new".
+[Sun Apr 13 10:53:16 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:53:16 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:53:16 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:53:16 2014] [debug] 200 OK (0.001619s, 617.665/s).
+[Sun Apr 13 10:53:16 2014] [debug] GET "/new".
+[Sun Apr 13 10:53:16 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:53:16 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:53:16 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:53:16 2014] [debug] 200 OK (0.001944s, 514.403/s).
+[Sun Apr 13 10:53:17 2014] [debug] GET "/new".
+[Sun Apr 13 10:53:17 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:53:17 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:53:17 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:53:17 2014] [debug] 200 OK (0.001758s, 568.828/s).
+[Sun Apr 13 10:53:17 2014] [debug] GET "/new".
+[Sun Apr 13 10:53:17 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:53:17 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:53:17 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:53:17 2014] [debug] 200 OK (0.009489s, 105.385/s).
+[Sun Apr 13 10:53:17 2014] [debug] GET "/new".
+[Sun Apr 13 10:53:17 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:53:17 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:53:17 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:53:17 2014] [debug] 200 OK (0.001207s, 828.500/s).
+[Sun Apr 13 10:53:55 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:53:55 2014] [debug] GET "/new".
+[Sun Apr 13 10:53:55 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:53:55 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:53:55 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:53:55 2014] [debug] 200 OK (0.044737s, 22.353/s).
+[Sun Apr 13 10:53:56 2014] [debug] GET "/new".
+[Sun Apr 13 10:53:56 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:53:56 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:53:56 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:53:56 2014] [debug] 200 OK (0.024337s, 41.090/s).
+[Sun Apr 13 10:54:22 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:54:22 2014] [debug] GET "/new".
+[Sun Apr 13 10:54:22 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:54:22 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:54:22 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:54:22 2014] [debug] 200 OK (0.041526s, 24.081/s).
+[Sun Apr 13 10:54:23 2014] [debug] GET "/new".
+[Sun Apr 13 10:54:23 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:54:23 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:54:23 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:54:23 2014] [debug] 200 OK (0.001905s, 524.934/s).
+[Sun Apr 13 10:54:24 2014] [debug] GET "/new".
+[Sun Apr 13 10:54:24 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:54:24 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:54:24 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:54:24 2014] [debug] 200 OK (0.001381s, 724.113/s).
+[Sun Apr 13 10:54:24 2014] [debug] GET "/new".
+[Sun Apr 13 10:54:24 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:54:24 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:54:24 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:54:24 2014] [debug] 200 OK (0.001980s, 505.051/s).
+[Sun Apr 13 10:54:24 2014] [debug] GET "/new".
+[Sun Apr 13 10:54:24 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:54:24 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:54:24 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:54:24 2014] [debug] 200 OK (0.001359s, 735.835/s).
+[Sun Apr 13 10:54:25 2014] [debug] GET "/new".
+[Sun Apr 13 10:54:25 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:54:25 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:54:25 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:54:25 2014] [debug] 200 OK (0.001604s, 623.441/s).
+[Sun Apr 13 10:54:25 2014] [debug] GET "/new".
+[Sun Apr 13 10:54:25 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:54:25 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:54:25 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:54:25 2014] [debug] 200 OK (0.001611s, 620.732/s).
+[Sun Apr 13 10:54:25 2014] [debug] GET "/new".
+[Sun Apr 13 10:54:25 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:54:25 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:54:25 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:54:25 2014] [debug] 200 OK (0.001902s, 525.762/s).
+[Sun Apr 13 10:55:36 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:55:36 2014] [debug] GET "/new".
+[Sun Apr 13 10:55:36 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:55:36 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:55:36 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:55:36 2014] [debug] 200 OK (0.037036s, 27.001/s).
+[Sun Apr 13 10:55:38 2014] [debug] GET "/new".
+[Sun Apr 13 10:55:38 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:55:38 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:55:38 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:55:38 2014] [debug] 200 OK (0.001698s, 588.928/s).
+[Sun Apr 13 10:56:12 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Apr 13 10:56:12 2014] [debug] GET "/new".
+[Sun Apr 13 10:56:12 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:56:12 2014] [debug] Rendering template "example/new_bom.html.ep".
+[Sun Apr 13 10:56:12 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 10:56:12 2014] [debug] 200 OK (0.045069s, 22.188/s).
+[Sun Apr 13 10:57:07 2014] [debug] GET "/new".
+[Sun Apr 13 10:57:07 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:57:07 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:57:07 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:57:07 2014] [debug] 200 OK (0.001318s, 758.725/s).
+[Sun Apr 13 10:57:12 2014] [debug] GET "/new".
+[Sun Apr 13 10:57:12 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:57:12 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:57:12 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:57:12 2014] [debug] 200 OK (0.001758s, 568.828/s).
+[Sun Apr 13 10:57:33 2014] [debug] GET "/new".
+[Sun Apr 13 10:57:33 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:57:33 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:57:33 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:57:33 2014] [debug] 200 OK (0.001417s, 705.716/s).
+[Sun Apr 13 10:58:28 2014] [debug] GET "/new".
+[Sun Apr 13 10:58:28 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:58:28 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:58:28 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:58:28 2014] [debug] 200 OK (0.001379s, 725.163/s).
+[Sun Apr 13 10:59:26 2014] [debug] GET "/new".
+[Sun Apr 13 10:59:26 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 10:59:26 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 10:59:26 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 10:59:26 2014] [debug] 200 OK (0.002378s, 420.521/s).
+[Sun Apr 13 11:00:12 2014] [debug] GET "/new".
+[Sun Apr 13 11:00:12 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:00:12 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:00:12 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:00:12 2014] [debug] 200 OK (0.001220s, 819.672/s).
+[Sun Apr 13 11:01:22 2014] [debug] GET "/new".
+[Sun Apr 13 11:01:22 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:01:22 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:01:22 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:01:22 2014] [debug] 200 OK (0.001335s, 749.064/s).
+[Sun Apr 13 11:05:42 2014] [debug] GET "/new".
+[Sun Apr 13 11:05:42 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:05:42 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:05:42 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:05:42 2014] [debug] 200 OK (0.001314s, 761.035/s).
+[Sun Apr 13 11:05:43 2014] [debug] GET "/new".
+[Sun Apr 13 11:05:43 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:05:43 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:05:43 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:05:43 2014] [debug] 200 OK (0.001359s, 735.835/s).
+[Sun Apr 13 11:08:06 2014] [debug] GET "/new".
+[Sun Apr 13 11:08:06 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:08:06 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:08:06 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:08:06 2014] [debug] 200 OK (0.001641s, 609.385/s).
+[Sun Apr 13 11:09:51 2014] [debug] GET "/new".
+[Sun Apr 13 11:09:51 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:09:51 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:09:51 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:09:51 2014] [debug] 200 OK (0.001502s, 665.779/s).
+[Sun Apr 13 11:10:32 2014] [debug] GET "/new".
+[Sun Apr 13 11:10:32 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:10:32 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:10:32 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:10:32 2014] [debug] 200 OK (0.001972s, 507.099/s).
+[Sun Apr 13 11:15:06 2014] [debug] GET "/new".
+[Sun Apr 13 11:15:06 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:15:06 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:15:06 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:15:06 2014] [debug] 200 OK (0.001643s, 608.643/s).
+[Sun Apr 13 11:16:14 2014] [debug] GET "/new".
+[Sun Apr 13 11:16:14 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:16:14 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:16:14 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:16:14 2014] [debug] 200 OK (0.001455s, 687.285/s).
+[Sun Apr 13 11:16:34 2014] [debug] GET "/new".
+[Sun Apr 13 11:16:34 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:16:34 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:16:34 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:16:34 2014] [debug] 200 OK (0.001797s, 556.483/s).
+[Sun Apr 13 11:18:48 2014] [debug] GET "/new".
+[Sun Apr 13 11:18:48 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:18:48 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:18:48 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:18:48 2014] [debug] 200 OK (0.001616s, 618.812/s).
+[Sun Apr 13 11:20:09 2014] [debug] GET "/".
+[Sun Apr 13 11:20:09 2014] [debug] Routing to controller "SocialBom::Example" and action "index".
+[Sun Apr 13 11:20:09 2014] [debug] Rendering template "example/index.html.ep".
+[Sun Apr 13 11:20:09 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Apr 13 11:20:09 2014] [debug] 200 OK (0.006717s, 148.876/s).
+[Sun Apr 13 11:20:12 2014] [debug] GET "/new".
+[Sun Apr 13 11:20:12 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:20:12 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:20:12 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:20:12 2014] [debug] 200 OK (0.008897s, 112.397/s).
+[Sun Apr 13 11:22:22 2014] [debug] GET "/new".
+[Sun Apr 13 11:22:22 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:22:22 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:22:22 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:22:22 2014] [debug] 200 OK (0.001280s, 781.250/s).
+[Sun Apr 13 11:24:38 2014] [debug] GET "/new".
+[Sun Apr 13 11:24:38 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:24:38 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:24:38 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:24:38 2014] [debug] 200 OK (0.001213s, 824.402/s).
+[Sun Apr 13 11:24:45 2014] [debug] GET "/new".
+[Sun Apr 13 11:24:45 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:24:45 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:24:45 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:24:45 2014] [debug] 200 OK (0.001251s, 799.361/s).
+[Sun Apr 13 11:25:06 2014] [debug] GET "/new".
+[Sun Apr 13 11:25:06 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:25:06 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:25:06 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:25:06 2014] [debug] 200 OK (0.001519s, 658.328/s).
+[Sun Apr 13 11:25:09 2014] [debug] GET "/new".
+[Sun Apr 13 11:25:09 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:25:09 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:25:09 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:25:09 2014] [debug] 200 OK (0.001821s, 549.149/s).
+[Sun Apr 13 11:26:08 2014] [debug] GET "/new".
+[Sun Apr 13 11:26:08 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:26:08 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:26:08 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:26:08 2014] [debug] 200 OK (0.001208s, 827.815/s).
+[Sun Apr 13 11:26:34 2014] [debug] GET "/new".
+[Sun Apr 13 11:26:34 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:26:34 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:26:34 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:26:34 2014] [debug] 200 OK (0.002077s, 481.464/s).
+[Sun Apr 13 11:27:05 2014] [debug] GET "/new".
+[Sun Apr 13 11:27:05 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:27:05 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:27:05 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:27:05 2014] [debug] 200 OK (0.002332s, 428.816/s).
+[Sun Apr 13 11:28:15 2014] [debug] GET "/new".
+[Sun Apr 13 11:28:15 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:28:15 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:28:15 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:28:15 2014] [debug] 200 OK (0.001901s, 526.039/s).
+[Sun Apr 13 11:29:26 2014] [debug] GET "/new".
+[Sun Apr 13 11:29:26 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:29:26 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:29:26 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:29:26 2014] [debug] 200 OK (0.001747s, 572.410/s).
+[Sun Apr 13 11:29:52 2014] [debug] GET "/new".
+[Sun Apr 13 11:29:52 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:29:52 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:29:52 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:29:52 2014] [debug] 200 OK (0.001322s, 756.430/s).
+[Sun Apr 13 11:32:07 2014] [debug] GET "/new".
+[Sun Apr 13 11:32:07 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:32:07 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:32:07 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:32:07 2014] [debug] 200 OK (0.001449s, 690.131/s).
+[Sun Apr 13 11:32:17 2014] [debug] GET "/new".
+[Sun Apr 13 11:32:17 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:32:17 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:32:17 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:32:17 2014] [debug] 200 OK (0.001437s, 695.894/s).
+[Sun Apr 13 11:32:19 2014] [debug] GET "/new".
+[Sun Apr 13 11:32:19 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:32:19 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:32:19 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:32:19 2014] [debug] 200 OK (0.009720s, 102.881/s).
+[Sun Apr 13 11:32:42 2014] [debug] GET "/new".
+[Sun Apr 13 11:32:42 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:32:42 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:32:42 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:32:42 2014] [debug] 200 OK (0.001884s, 530.786/s).
+[Sun Apr 13 11:33:53 2014] [debug] GET "/new".
+[Sun Apr 13 11:33:53 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:33:53 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:33:53 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:33:53 2014] [debug] 200 OK (0.001336s, 748.503/s).
+[Sun Apr 13 11:40:03 2014] [debug] GET "/new".
+[Sun Apr 13 11:40:03 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:40:03 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:40:03 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:40:03 2014] [debug] 200 OK (0.001221s, 819.001/s).
+[Sun Apr 13 11:41:00 2014] [debug] GET "/new".
+[Sun Apr 13 11:41:00 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:41:00 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:41:00 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:41:00 2014] [debug] 200 OK (0.001308s, 764.526/s).
+[Sun Apr 13 11:42:46 2014] [debug] GET "/new".
+[Sun Apr 13 11:42:46 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:42:46 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:42:46 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:42:46 2014] [debug] 200 OK (0.001387s, 720.981/s).
+[Sun Apr 13 11:44:30 2014] [debug] GET "/new".
+[Sun Apr 13 11:44:30 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:44:30 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:44:30 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:44:30 2014] [debug] 200 OK (0.001455s, 687.285/s).
+[Sun Apr 13 11:45:01 2014] [debug] GET "/new".
+[Sun Apr 13 11:45:01 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:45:01 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:45:01 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:45:01 2014] [debug] 200 OK (0.001406s, 711.238/s).
+[Sun Apr 13 11:48:44 2014] [debug] GET "/new".
+[Sun Apr 13 11:48:44 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:48:44 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:48:44 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:48:44 2014] [debug] 200 OK (0.001318s, 758.725/s).
+[Sun Apr 13 11:51:09 2014] [debug] GET "/new".
+[Sun Apr 13 11:51:09 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:51:09 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:51:09 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:51:09 2014] [debug] 200 OK (0.001417s, 705.716/s).
+[Sun Apr 13 11:51:22 2014] [debug] GET "/new".
+[Sun Apr 13 11:51:22 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:51:22 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:51:22 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:51:22 2014] [debug] 200 OK (0.001427s, 700.771/s).
+[Sun Apr 13 11:52:47 2014] [debug] GET "/new".
+[Sun Apr 13 11:52:47 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:52:47 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:52:47 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:52:47 2014] [debug] 200 OK (0.001201s, 832.639/s).
+[Sun Apr 13 11:53:19 2014] [debug] GET "/new".
+[Sun Apr 13 11:53:19 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:53:19 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:53:19 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:53:19 2014] [debug] 200 OK (0.001667s, 599.880/s).
+[Sun Apr 13 11:55:03 2014] [debug] GET "/new".
+[Sun Apr 13 11:55:03 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:55:03 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:55:03 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:55:03 2014] [debug] 200 OK (0.001464s, 683.060/s).
+[Sun Apr 13 11:55:40 2014] [debug] GET "/new".
+[Sun Apr 13 11:55:40 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:55:40 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:55:40 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:55:40 2014] [debug] 200 OK (0.001234s, 810.373/s).
+[Sun Apr 13 11:56:37 2014] [debug] GET "/new".
+[Sun Apr 13 11:56:37 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:56:37 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:56:37 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:56:37 2014] [debug] 200 OK (0.001255s, 796.813/s).
+[Sun Apr 13 11:56:37 2014] [debug] GET "/new".
+[Sun Apr 13 11:56:37 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:56:37 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:56:37 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:56:37 2014] [debug] 200 OK (0.001363s, 733.676/s).
+[Sun Apr 13 11:56:37 2014] [debug] GET "/new".
+[Sun Apr 13 11:56:37 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:56:37 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:56:37 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:56:37 2014] [debug] 200 OK (0.001366s, 732.064/s).
+[Sun Apr 13 11:56:37 2014] [debug] GET "/new".
+[Sun Apr 13 11:56:37 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:56:37 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:56:37 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:56:37 2014] [debug] 200 OK (0.001436s, 696.379/s).
+[Sun Apr 13 11:56:38 2014] [debug] GET "/new".
+[Sun Apr 13 11:56:38 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:56:38 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:56:38 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:56:38 2014] [debug] 200 OK (0.001270s, 787.402/s).
+[Sun Apr 13 11:56:38 2014] [debug] GET "/new".
+[Sun Apr 13 11:56:38 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:56:38 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:56:38 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:56:38 2014] [debug] 200 OK (0.001722s, 580.720/s).
+[Sun Apr 13 11:56:38 2014] [debug] GET "/new".
+[Sun Apr 13 11:56:38 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:56:38 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:56:38 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:56:38 2014] [debug] 200 OK (0.001712s, 584.112/s).
+[Sun Apr 13 11:56:45 2014] [debug] GET "/new".
+[Sun Apr 13 11:56:45 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:56:45 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:56:45 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:56:45 2014] [debug] 200 OK (0.001342s, 745.156/s).
+[Sun Apr 13 11:56:45 2014] [debug] GET "/new".
+[Sun Apr 13 11:56:45 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:56:45 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:56:45 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:56:45 2014] [debug] 200 OK (0.001972s, 507.099/s).
+[Sun Apr 13 11:56:45 2014] [debug] GET "/new".
+[Sun Apr 13 11:56:45 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:56:45 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:56:45 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:56:45 2014] [debug] 200 OK (0.001636s, 611.247/s).
+[Sun Apr 13 11:56:48 2014] [debug] GET "/new".
+[Sun Apr 13 11:56:48 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:56:48 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:56:48 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:56:48 2014] [debug] 200 OK (0.001732s, 577.367/s).
+[Sun Apr 13 11:56:49 2014] [debug] GET "/new".
+[Sun Apr 13 11:56:49 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:56:49 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:56:49 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:56:49 2014] [debug] 200 OK (0.001713s, 583.771/s).
+[Sun Apr 13 11:56:53 2014] [debug] GET "/new".
+[Sun Apr 13 11:56:53 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:56:53 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:56:53 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:56:53 2014] [debug] 200 OK (0.001472s, 679.348/s).
+[Sun Apr 13 11:57:25 2014] [debug] GET "/new".
+[Sun Apr 13 11:57:25 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:57:25 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:57:25 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:57:25 2014] [debug] 200 OK (0.001243s, 804.505/s).
+[Sun Apr 13 11:57:26 2014] [debug] GET "/new".
+[Sun Apr 13 11:57:26 2014] [debug] Routing to controller "SocialBom::Example" and action "new_bom".
+[Sun Apr 13 11:57:26 2014] [debug] Rendering cached template "example/new_bom.html.ep".
+[Sun Apr 13 11:57:26 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sun Apr 13 11:57:26 2014] [debug] 200 OK (0.001575s, 634.921/s).
