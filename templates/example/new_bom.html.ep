@@ -1,0 +1,140 @@
+% layout 'default';
+% title 'Welcome';
+
+<div class="container">
+
+	<header>
+		<div class="row">
+			<div class="col-md-4">
+				<a href="/">
+					<span class="social">SOCIAL</span><br><span class="bom">BOM</span>
+				</a>
+			</div>
+		</div>
+	</header>
+
+	<h1>Новый BOM</h1>
+
+	<div style="margin-top:30px;"></div>
+
+	<div class="row">
+		<div class="col-md-4">
+			<input type="text" class="form-control" name="bom_name" placeholder="Введите имя списка">
+		</div>
+	</div>
+
+	<div style="margin-top:30px;"></div>
+
+	<div class="row">
+		<div class="col-md-6">
+			<textarea name="bom_description" class="form-control" cols="100" placeholder="Опишите кратко, что из этого списка должно получиться"></textarea>
+		</div>
+	</div>
+
+	<div style="margin-top:30px;"></div>
+
+	<p>Добавляем компоненты: </p>
+
+	<input type="checkbox" id="extended_view">Расширенный вид
+
+	<div class="row">
+		<div class="col-md-12">
+			<table class="table table-condensed items_table">
+			  <thead>
+			  	<tr>
+			  		<td width="80%" class="num-width">#</td>
+			  		<td>название</td>
+			  		<td>количество</td>
+			  		<td>независимая подсистема</td>
+			  		<td style="display:none" class="extended">ключевые<br>характеристики</td>
+			  		<td style="display:none" class="extended">фото</td>
+			  		<td style="display:none" class="extended">заметка</td>
+			  	</tr>
+			  </thead>
+			  <tr class="one_item">
+			  <form class="item_form">
+			  	<td><span class="item_number"></span></td>
+			  	<td><input type="text" name="item" class="field item_field"></td>
+			  	<td><input type="text" name="quantity" class="field" size="4" maxlength="4"></td>
+			  	<td><input type="text" name="subsystem"  class="field subsystem"></td>
+			  	<td style="display:none" class="extended characteristics">
+			  		<div class="characteristics-wrapper">
+				  		<div class="half-width"><input class="charactristic_name" type="text" ></div>
+				  		<div class="colon-width"> : </div> 
+				  		<div class="half-width"><input type="text"></div></td>
+				  	</div>
+			  	<td style="display:none" class="extended">
+			  		<div class="upload-file-container">
+			  			<span class="glyphicon glyphicon-plus"></span>
+	   					<input type="file" name="photo" multiple>
+					</div>
+				</td>
+			  	<td style="display:none" class="extended">
+			  		<input class="last_input" type="textarea" name="field note">
+			  	</td>
+			  	</form>
+			  </tr>
+			
+			</table>
+
+		</div>
+	</div>
+
+	<div style="margin-top:30px;"></div>
+
+	<div class="row">
+		<div class="col-md-12">
+			<button type="submit" class="btn btn-default btn-success submit_item">
+				<span class="glyphicon glyphicon-ok"></span> Сохранить и получить ссылку
+			</button>
+		</div>
+	</div>
+
+
+	<div class="row">
+		<div class="col-md-12">
+			<h2>Настройка прав</h2>
+			<p>Выберите, кто, кроме меня может работать над этим BOM</p>
+
+			<div class="row">
+				<div class="col-md-3">
+					<select class="selectpicker" id="select_permissions">
+					    <option value="1">Только мои рабочие группы</option>
+					    <option value="2">Все, у кого есть ссылка</option>
+					    <option value="3">Любой пользователь (BOM также будет проиндексирован в поиске)</option>
+					 </select>
+				</div>
+				<div class="col-md-9">
+					<div id="bom_rules_mask"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div style="margin-top:30px;"></div>
+
+	<div class="row">
+		<div class="col-md-2">
+			<button type="submit" class="btn btn-default">
+				ИЗМЕНИТЬ ССЫЛКУ
+			</button>
+		</div>
+		<div class="col-md-2">
+			<button type="submit" class="btn btn-default">
+			СБРОСИТЬ ВСЕ ПРИВИЛЕГИИ (forever alone)
+			</button>
+		</div>
+	</div>
+
+	<div style="margin-top:30px;"></div>
+
+
+	<div class="row">
+		<div class="col-md-12">
+			<div class="alert alert-danger">
+			<%= dumper $item %>
+			</div>
+		</div>
+	</div>
+
+</div>

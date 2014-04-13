@@ -1,0 +1,7 @@
+% layout 'default';
+% title 'Welcome';
+
+<div class="container">
+%= $items->{1}->{'fname'}
+%= $items->{1}->{'lname'}
+</div>
